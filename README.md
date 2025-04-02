@@ -1,2 +1,3 @@
 # hello-world
-This repository is for practicing the GitHub Flow
+Each generation must discover its mission, fulfill it or betray it.
+Frantz Fanon — The Wretched of the Earth
